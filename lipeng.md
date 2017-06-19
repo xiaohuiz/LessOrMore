@@ -1,25 +1,28 @@
 ---
 layout: page
-title: 关于我
-permalink: /about/
+title: 澳大利亚全科医生 李鹏
+permalink: /lipeng/
 ---
 
-# 李鹏
-原北京301医院（解放军总医院）主治医生，现澳大利亚注册全科医生
 
+简介
 ---
-随着对澳洲医疗体系了解到深入，越来越深刻感受到国内目前的医疗体制中，家庭医生（或全科医生）对应角色的缺乏：
-* 病人需要有人能够全面综合的为自己的身体健康来考虑，如何长期的全面的不仅是治疗，更重要的是预防；不只是考虑当前正有的一种疾病，而是全面综合考虑各种可能疾病，体现的是以病人为中心
-* 国内传统上一直是以病为中心，病人有了具体的病后自己去找不同科室的医生。具体该看哪个科，需要病人自己决断；各个科室对自己的病人也往往只从自己科室对应的疾病去考虑。所以国内要想看好病，很多时候要逼得自己成为专家才行，否则要么被骗，要么靠运气，没有人能综合的从医疗专业的角度替病人考虑。
 
-国内目前正在进行的医疗改革中加强全科医生的制度是个非常好的方向，我这里也想把自己在全科医生实践中的一些思考和感受到的理念拿出来与大家探讨，共同为提高中国人／海外华人的健康水平而努力，愿每个人都能健康活过八十岁。
+原北京301医院（解放军总医院）主治医生，现澳大利亚注册医生，从医18年，尤其擅长处理老年病及各类慢性病，可讲普通话或英语。
 
+执业诊所
 ---
-南澳大利亚的朋友欢迎来找我面谈，讨论任何有关健康的话题：
 
-我目前在南澳大利亚阿德莱德Martins Road Family Medical Practice执业，尤其擅长处理老年病及各类慢性病，可讲普通话或英语。诊所目前全部Bulk Bill（Medicare可免费就医或医保100%报销）。
+我目前在南澳大利亚阿德莱德Martins Road Family Medical Practice执业，诊所目前全部 **Bulk Bill（Medicare可免费就医或医保100%报销）**。
 
 * 诊所： Martins Road Family Medical Practice
 * 预约电话（英文）：08 8283 4411
 * 地址： Shop 11, Martins Plaza Shopping Centre, 237 Martins Road, Parafield Gardens, SA 5107
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.9970554458737!2d138.60608195147972!3d-34.780849430317765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0b6d1c93bde99%3A0x7e8d82255e86eba3!2sMartins+Road+Family+Medical+Practice!5e0!3m2!1sen!2sau!4v1497875477480" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+微信预约
+---
+
+有微信的朋友可以用微信扫描下面的二维码，关注`健康八十岁`公众号后，通过微信预约
+
+<img src="/styles/images/qr_lipeng.jpg" alt="微信预约" width="310" />

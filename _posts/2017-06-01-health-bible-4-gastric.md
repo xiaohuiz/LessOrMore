@@ -4,7 +4,7 @@ title:  3%：胃癌的预防和早期发现
 author: 李鹏
 date:   2017-06-01 20:19:28 +0930
 categories: 健康宝典
-tag: 健康宝典 肿瘤 癌症 胃癌
+tags: 健康宝典 肿瘤 癌症 胃癌
 ---
 
 * content
