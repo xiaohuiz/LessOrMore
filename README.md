@@ -76,7 +76,7 @@ tag: 教程
 ------------------------------------
 
 ``` bash
-jekyll server
+jekyll serv
 ```
 
 效果
